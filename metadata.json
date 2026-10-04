@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Kuchipu - Magical Birthday Celebration",
+  "description": "A colourful, innovative birthday celebration website for Kuchipu featuring interactive balloons, confetti bursts, personalized photo memories, custom greeting card builder, and dynamic 24 December countdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
